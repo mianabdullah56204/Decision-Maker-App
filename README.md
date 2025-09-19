@@ -25,7 +25,7 @@ Material 3 components (no external packages)
 
 Built-in animations, gestures, state restoration
 
-## 📸 Screenshots
+# 📸 Screenshots
 
 <img width="1160" height="2400" alt="1" src="https://github.com/user-attachments/assets/4ffa9d03-414d-46d4-b83a-92f176c06a48" />
 <img width="1160" height="2400" alt="2" src="https://github.com/user-attachments/assets/e82d0d79-7aeb-4d4e-ac8d-7d5f75b3959c" />
@@ -33,3 +33,4 @@ Built-in animations, gestures, state restoration
 <img width="1160" height="2400" alt="4" src="https://github.com/user-attachments/assets/c7fad42b-4cdc-48e1-9ecf-9f816707b60c" />
 <img width="1160" height="2400" alt="5" src="https://github.com/user-attachments/assets/3cf8bb9f-38c0-4864-b071-576c6eea01c2" />
 <img width="1160" height="2400" alt="6" src="https://github.com/user-attachments/assets/2bb7ef77-d952-4766-87f3-35613bf32a93" />
+
